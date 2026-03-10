@@ -5,6 +5,7 @@ import StockChart from './components/StockChart'
 import HotStockAnalysis from './components/HotStockAnalysis'
 import TradeRuleMonitor from './components/TradeRuleMonitor'
 import CloudMap from './components/CloudMap'
+import WorldMonitor from './components/WorldMonitor'
 import './App.css'
 
 const API_BASE = 'http://localhost:3001/api'
