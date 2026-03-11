@@ -1,0 +1,9 @@
+# 加密密钥文件（明文，不入库）
+SECRETS.md
+*.enc
+*.key
+*.pem
+
+# 本地敏感配置
+.env
+.env.*
